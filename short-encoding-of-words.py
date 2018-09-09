@@ -25,6 +25,8 @@
 # 1. 1 <= words.length <= 2000.
 # 2. 1 <= words[i].length <= 7.
 # 3. Each word has only lowercase letters.
+#
+#ADDRESS:https://leetcode-cn.com/problems/short-encoding-of-words/description/
 
 import collections
 import functools
